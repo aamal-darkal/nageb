@@ -73,7 +73,7 @@ nav .image {
 
 /* footer start */
 footer {
-    background-image: linear-gradient(rgba(176, 224, 235, 0.5) , rgba(169, 190, 240, 0.7));
+    background-image: linear-gradient(rgba(176, 224, 235) , rgba(169, 190, 240));
     /* background-color: rgb(176, 224, 235); */
     text-shadow: 2px 2px 2px black; 
     padding: 2vw;   
