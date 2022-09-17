@@ -12,8 +12,8 @@
 nav .image {
     background-image:linear-gradient(rgba(176, 224, 235, 0.3) , rgba(169, 190, 240, 0.3) ), url(../images/nav.jpeg);   
     background-size: 100vw auto; 
-    background-repeat: no-repeat;    
-    height: calc( 7vw + 5px);
+    background-repeat: no-repeat;
+    height: calc( 7vw + 10px);
     border-bottom: solid rgb(111, 171, 193) 1px;
 }
 
@@ -25,15 +25,10 @@ nav .image {
 }
 
 .banner h1 {
-    /* color: var(--dark-color-6); */
     color: rgb(74, 67, 150);
     text-align: center;
     position: relative;
-    top: -50px;
-    
-    /* text-shadow: 1px 1px 4px rgba(91, 169, 224, 0.72); */
-    /* text-shadow: 2px 2px 4px white , 1px 1px 7px rgba(91, 169, 224, 0.72); */
-    /* margin: 0 auto 1vw; */
+    top: -5vw;    
     font-size: calc(2.2vw + 15px);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
 }
@@ -67,9 +62,9 @@ nav .image {
 }
 .button {
     display: inline-block;
-    background-color:var(--dark-color-6);
+    background-color:rgb(176, 224, 235);
     border-radius: 5px;
-    color: white;
+    color: var(--dark-color-6);
     padding: 2px 20px;
     text-decoration: none;
     margin: 3vw auto;
@@ -78,7 +73,8 @@ nav .image {
 
 /* footer start */
 footer {
-    background-color:var(--dark-color-6) ;
+    background-image: linear-gradient(rgba(176, 224, 235, 0.5) , rgba(169, 190, 240, 0.7));
+    /* background-color: rgb(176, 224, 235); */
     text-shadow: 2px 2px 2px black; 
     padding: 2vw;   
 }
