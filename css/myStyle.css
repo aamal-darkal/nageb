@@ -8,11 +8,11 @@
 
 /* nav start */
 nav .image {
-    background-image:linear-gradient(rgba(176, 224, 235, 0.3) , rgba(169, 190, 240, 0.3) ), url(../images/nav.jpeg);   
+    background-image:linear-gradient(rgba(149, 201, 244, 0.705) , rgba(118, 156, 243, 0.3) ,90%, rgba(149, 201, 244, 0.705) ), url(../images/nav.jpeg);   
     background-size: 100vw auto; 
     background-repeat: no-repeat;
     height: calc( 10vw + 2px);
-    border-bottom: solid rgb(111, 171, 193) 1px;
+    box-shadow: 0px 1px 5px rgb(17, 103, 173);
 }
 
 /* mission start*/
@@ -63,7 +63,7 @@ nav .image {
 
 /* footer start */
 footer {
-    background-image: linear-gradient(rgba(176, 224, 235) , rgba(169, 190, 240));
+    background-image:linear-gradient( rgba(118, 156, 243, 0.9), rgba(149, 201, 244, 0.9) ,80%, rgba(118, 156, 243, 0.9) );   
     text-shadow: 2px 2px 2px black; 
     padding: 2vw;   
 }
