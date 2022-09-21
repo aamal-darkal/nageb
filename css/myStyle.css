@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 /* nav start */
 nav {
     padding: 0;
@@ -36,7 +35,6 @@ nav .image {
     height: 60%;
 }
 
-/* mission end */
 
 /* application-link  */
 .application-link {
@@ -94,5 +92,3 @@ footer a {
 .copy-right a {
     font-size: 1em;
 }
-
-/* footer end */
