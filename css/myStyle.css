@@ -14,11 +14,6 @@ nav .image {
     height: calc( 10vw + 2px);
     border-bottom: solid rgb(111, 171, 193) 1px;
 }
-.vedio {
-    width: 100%;
-    text-align: center;
-}
-
 
 /* mission start*/
 .mission {
@@ -43,9 +38,8 @@ nav .image {
 .application-link {
     margin-top: 100px;
     text-align: center;
-    padding: 10px;    
+    padding: 0px 30px;    
 }
-
 
 .button {
     display: inline-block;
@@ -55,9 +49,9 @@ nav .image {
     text-decoration: none;
     margin: 3vw auto;
     box-shadow: -1px -1px 4px inset rgb(79, 78, 78);    
-    width: 8em;
     color:rgb(18, 69, 100);
  } 
+
  .button:hover {
     box-shadow: 2px 1px 4px inset rgb(79, 78, 78), -0.5px -0.5px 1px inset rgb(79, 78, 78);
     color: inherit;
