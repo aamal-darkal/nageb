@@ -69,7 +69,7 @@ footer {
     background-image: linear-gradient(rgba(149, 201, 244, 0.705), rgba(118, 156, 243, 0.3), 90%, rgba(149, 201, 244, 0.705));
     text-shadow: 2px 2px 2px white;
     padding: 2vw;
-    height: calc(10vw + 20px);
+    height: calc(10vw + 40px);
     width: 100%;
 }
 
